@@ -8,7 +8,7 @@ charts stored in GitHub repos.
 Add repository:
 
 ```bash
-helm repo add hypnoglow https://hypnoglow.github.com/helm-charts
+helm repo add hypnoglow https://hypnoglow.github.io/helm-charts
 ```
 
 Search charts for Helm v2:
