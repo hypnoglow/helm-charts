@@ -3,7 +3,21 @@ entries:
   osrm:
   - apiVersion: v1
     appVersion: 5.22.0
-    created: "2022-06-07T20:15:34.759220494Z"
+    created: "2023-10-30T21:05:35.118624+02:00"
+    description: OSRM - Open Source Routing Machine
+    digest: 3df1c90ff6ec8706d88dd11706eb4a2e5a7e9143ffd5cd06c005f39caa4e2ee5
+    keywords:
+    - osrm
+    kubeVersion: '>= 1.19.0-0'
+    name: osrm
+    sources:
+    - https://github.com/Project-OSRM/osrm-backend
+    urls:
+    - https://hypnoglow.github.io/helm-charts/osrm-0.6.0.tgz
+    version: 0.6.0
+  - apiVersion: v1
+    appVersion: 5.22.0
+    created: "2023-10-30T21:05:35.118185+02:00"
     description: OSRM - Open Source Routing Machine
     digest: c4b873c84cdbab8f15ed166c0cc9c0bd717d6a005723ff3edba8bca8be8fa75e
     keywords:
@@ -17,7 +31,7 @@ entries:
     version: 0.5.0
   - apiVersion: v1
     appVersion: 5.22.0
-    created: "2022-06-07T20:15:34.758808244Z"
+    created: "2023-10-30T21:05:35.117743+02:00"
     description: OSRM - Open Source Routing Machine
     digest: eb6e4e8c7f3e10bf185e2f0aee95f1a3b540fb3c3467802430f5a797e23fa7f4
     keywords:
@@ -31,7 +45,7 @@ entries:
     version: 0.5.0-pre.3
   - apiVersion: v1
     appVersion: 5.22.0
-    created: "2022-06-07T20:15:34.758392821Z"
+    created: "2023-10-30T21:05:35.117391+02:00"
     description: OSRM - Open Source Routing Machine
     digest: 8565d655a2a7a6d4c425b22620dd917a6b0fff717525eaa5f37ea90fcfb8bad4
     keywords:
@@ -45,7 +59,7 @@ entries:
     version: 0.4.1
   - apiVersion: v1
     appVersion: 5.22.0
-    created: "2022-06-07T20:15:34.757996451Z"
+    created: "2023-10-30T21:05:35.117042+02:00"
     description: OSRM - Open Source Routing Machine
     digest: 819bedacd3851ef588947fb01c2463c79777dbcaf5ef5c287f717db14a32f49c
     keywords:
@@ -59,7 +73,7 @@ entries:
     version: 0.4.0
   - apiVersion: v1
     appVersion: 5.22.0
-    created: "2022-06-07T20:15:34.757512227Z"
+    created: "2023-10-30T21:05:35.116536+02:00"
     description: OSRM - Open Source Routing Machine
     digest: 02d3305fe8f811f605b07fdf6c35a18e6b081fb3ec12e2096723f993f45db176
     keywords:
@@ -73,7 +87,7 @@ entries:
     version: 0.3.0
   - apiVersion: v1
     appVersion: 5.22.0
-    created: "2022-06-07T20:15:34.757089402Z"
+    created: "2023-10-30T21:05:35.116175+02:00"
     description: OSRM - Open Source Routing Machine
     digest: 93280445624d5659c48ea99ab93c9a7c8fe89b3752c0370ecd7e25b9f68089cd
     keywords:
@@ -87,7 +101,7 @@ entries:
     version: 0.2.0
   - apiVersion: v1
     appVersion: 5.22.0
-    created: "2022-06-07T20:15:34.756197561Z"
+    created: "2023-10-30T21:05:35.115842+02:00"
     description: OSRM - Open Source Routing Machine
     digest: e17efb9621b136aea58e94178d41800b2aeed94d8613323ef09051b6cdb2a5f5
     keywords:
@@ -99,4 +113,4 @@ entries:
     urls:
     - https://hypnoglow.github.io/helm-charts/osrm-0.1.0.tgz
     version: 0.1.0
-generated: "2022-06-07T20:15:34.755647281Z"
+generated: "2023-10-30T21:05:35.115295+02:00"
